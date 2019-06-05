@@ -36,9 +36,10 @@ a, a:link, a:visited{
 	
 a:hover, a:active, a:focus { 
 	text-decoration: none;
-	color:#F00;
+	color:#fff;
+	background-color:#880e4f;
 	}/* style by 
-	*/
+	*/Alena A.
 	
 h2{
 	font-family:Oswald, "Times New Roman", Times, serif;
