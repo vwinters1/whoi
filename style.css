@@ -16,8 +16,11 @@ body{
 	
 .header{
 	padding: 5px;
-	 background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
-	
+	background: rgb(255,0,0);
+	background: -moz-linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,130,0,1) 14%, rgba(255,239,31,1) 28%, rgba(35,167,6,1) 42%, rgba(44,157,223,1) 56%, rgba(28,232,235,1) 70%, rgba(164,0,255,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,130,0,1) 14%, rgba(255,239,31,1) 28%, rgba(35,167,6,1) 42%, rgba(44,157,223,1) 56%, rgba(28,232,235,1) 70%, rgba(164,0,255,1) 100%);
+	background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,130,0,1) 14%, rgba(255,239,31,1) 28%, rgba(35,167,6,1) 42%, rgba(44,157,223,1) 56%, rgba(28,232,235,1) 70%, rgba(164,0,255,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000",endColorstr="#a400ff",GradientType=1);
 }/* style by Megan 
 	*/
 	
