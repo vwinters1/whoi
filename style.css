@@ -7,7 +7,10 @@ body{
 	font-family:Herculanum Regular; 
 	}/* style by Loretta
 	*/
-	
+.content: {
+	color:#F0FF00;
+	/*Rustam*/
+}
 .container {
 	background:#ccffe6;
 	border:5px dashed #555555;
@@ -16,12 +19,9 @@ body{
 	
 .header{
 	padding: 5px;
-	background: rgb(255,0,0);
-	background: -moz-linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,130,0,1) 14%, rgba(255,239,31,1) 28%, rgba(35,167,6,1) 42%, rgba(44,157,223,1) 56%, rgba(28,232,235,1) 70%, rgba(164,0,255,1) 100%);
-	background: -webkit-linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,130,0,1) 14%, rgba(255,239,31,1) 28%, rgba(35,167,6,1) 42%, rgba(44,157,223,1) 56%, rgba(28,232,235,1) 70%, rgba(164,0,255,1) 100%);
-	background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,130,0,1) 14%, rgba(255,239,31,1) 28%, rgba(35,167,6,1) 42%, rgba(44,157,223,1) 56%, rgba(28,232,235,1) 70%, rgba(164,0,255,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000",endColorstr="#a400ff",GradientType=1);
-}/* style by Megan 
+	background:#cccccc;
+	
+}/* style by 
 	*/
 	
 .site-title{
@@ -51,11 +51,20 @@ h2{
 	*/yigit
 
 h3{
+	font-family:Impact, Impact5, Charcoal6, sans-serif;
+	color:#EDF01D;
+}/* style by 
+	*/yigit
+h3{
 	font-family:"Comic Sans MS", cursive;
 	color:#555555;
 }/* style by 
 	*/
-
+h3{
+	font-family:"Comic Sans MS", cursive;
+	color:#555555;
+}/* style by 
+	*/
 p{
 	font-family:Tahoma, Geneva, sans-serif;
 	color:#4d4d4d4;
@@ -65,6 +74,12 @@ p{
 .footer{
 	border-top:3px solid #00CCC6;
 	color:#F0FF00;
+
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;/*additionaly to 
+  footer styled by Rustam*/
 }/* style by Ben Manarello
 	*/
 	
